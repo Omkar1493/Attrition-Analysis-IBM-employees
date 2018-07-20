@@ -1,1 +1,1 @@
-# Integration-React-and-Django
+Knowledge Discovery in Databases
